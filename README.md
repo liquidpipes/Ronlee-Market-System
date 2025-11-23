@@ -21,8 +21,9 @@ The **Ronlee Market System v2.5 (Fusion+ Framework)** is a hybrid market-analysi
 - ⭐ Python fusion engine  
 - ⭐ Google Sheets automation pipeline  
 
-This version is the **public academic release**.  
+This version is the **public academic release** for research and educational purposes only. It is not financial advice and should not be used for trading decisions.
 Commercial use is prohibited (see license).
+
 
 ---
 
@@ -67,5 +68,3 @@ Run locally:
 
 ```bash
 python fusion_score.py
-
-This project is for research and educational purposes only. It is not financial advice and should not be used for trading decisions.
