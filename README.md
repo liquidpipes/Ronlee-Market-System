@@ -1,33 +1,74 @@
 # Ronlee Market System v2.5 — Fusion+ Framework  
-### Academic Edition (Public Release)
+### *Predictive Market-Analysis & Adaptive Decision Engine (Academic Edition)*
 
-A modern hybrid market-analysis and predictive-decision framework integrating  
-technical indicators, sentiment analytics, behavioral finance, and adaptive  
-risk-adjusted modeling.
-
-Developed by **Ronald Hehn**  
-Academic Edition — November 2025  
-License: **CC BY-NC-SA 4.0**
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-blue)
+![Status](https://img.shields.io/badge/version-v2.5-green)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Cloudflare](https://img.shields.io/badge/cloudflare-worker-orange)
+![Google Sheets](https://img.shields.io/badge/google%20sheets-integrated-brightgreen)
 
 ---
 
-## 🔥 Overview
+## 📘 Overview
+The **Ronlee Market System v2.5 (Fusion+ Framework)** is a hybrid market-analysis and predictive-decision model integrating:
 
-The **Ronlee Market System v2.5 Fusion+ Framework** is a multi-layer analytical  
-architecture designed to interpret market behavior using a blend of:
+- ⭐ Technical indicators  
+- ⭐ Relative strength modeling  
+- ⭐ Sharpe-adjusted trend validation  
+- ⭐ Behavioral sentiment analytics (CSI v2)  
+- ⭐ Adaptive predictive feedback (PC Layer)  
+- ⭐ Cloudflare Worker backend  
+- ⭐ Python fusion engine  
+- ⭐ Google Sheets automation pipeline  
 
-- Trend structure (Minervini + Bravo-based foundation)  
-- Volatility-adjusted Sharpe analytics  
-- Sentiment-aware behavioral adjustment  
-- Predictive calibration feedback loops  
-
-This public repository contains the **clean, academic version** of the  
-architecture described in the white paper — safe for public demonstration  
-and suitable for tech-finance or fintech portfolios.
+This version is the **public academic release**.  
+Commercial use is prohibited (see license).
 
 ---
 
-## 🧠 Architecture Summary
+## 📊 Core Architecture
 
-Fusion+ is built as a **layered market-intelligence engine**:
+### **Fusion+ Architecture Diagram**
+![Architecture](docs/assets/Hybrid_Market-Analysis_and_Predictive-Decision_System.png)
 
+---
+
+## 🧩 Fusion+ Stack Diagram
+![Fusion+ Stack](docs/assets/Fusion+_Stack.png)
+
+---
+
+## 🧠 CSI v2 Sentiment Engine
+![CSI Engine](docs/assets/CSI_Sentiment_Engine.png)
+
+---
+
+## 🔄 Market-Decision Data Pipeline
+![Pipeline](docs/assets/Market-Decision_Data_Pipeline.png)
+
+---
+
+# 📚 Documentation
+
+All documentation is located in the `/docs` folder.
+
+| Document | Description |
+|----------|-------------|
+| **architecture.md** | System architecture overview |
+| **formulas.md** | Mathematical formulas for CF, DSG, SD, PC |
+| **methodology.md** | Research methodology behind Fusion+ |
+| **model_layers.md** | Layer-by-layer breakdown |
+| **how_to_read_diagrams.md** | Guide for understanding all diagrams |
+| **assets/** | Architecture, Fusion+, CSI, and pipeline diagrams |
+
+---
+
+# ⚙️ Quick Start
+
+## 1. Python Fusion Engine
+Located in `/src`.
+
+Run locally:
+
+```bash
+python fusion_score.py
