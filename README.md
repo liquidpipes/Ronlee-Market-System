@@ -67,3 +67,5 @@ Run locally:
 
 ```bash
 python fusion_score.py
+
+This project is for research and educational purposes only. It is not financial advice and should not be used for trading decisions.
