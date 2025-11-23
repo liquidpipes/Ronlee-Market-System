@@ -28,20 +28,15 @@ Commercial use is prohibited (see license).
 
 ## 📊 Core Architecture
 
-### **Fusion+ Architecture Diagram**
-![Architecture](docs/assets/Hybrid_Market-Analysis_and_Predictive-Decision_System.png)
-
----
-
 ## 🧩 Fusion+ Stack Diagram
-![Fusion+ Stack](docs/assets/Fusion+_Stack.png)
+![Fusion+ Stack](docs/assets/fusion+_stack.png)
 
----
+## 🧠 CSI v2 — Sentiment Engine
+![CSI Sentiment Engine](docs/assets/CSI_sentiment_engine.png)
 
-## 🧠 CSI v2 Sentiment Engine
-![CSI Engine](docs/assets/CSI_Sentiment_Engine.png)
+## 🧩 Architecture Diagram
+![Architecture](docs/assets/architecture_diagram.png)
 
----
 
 ## 🔄 Market-Decision Data Pipeline
 ![Pipeline](docs/assets/Market-Decision_Data_Pipeline.png)
